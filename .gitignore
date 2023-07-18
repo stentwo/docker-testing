@@ -1,6 +1,2 @@
 /node_modules
-/.idea/.gitignore
-/.idea/docker-testing.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
+/.idea
